@@ -1,0 +1,23 @@
+complete django auth system with user roles
+
+
+incase of any dificulties installing contact me via https://nyagaka.com/blog/contact or 0745566505 or omundifelix30@gmail.com or contact@nyagaka.com
+
+
+
+To run the project config your app by add environment variables
+
+# SECRET_KEY=bbbnnnnnnfffgggrrr
+# DEBUG=True
+# EMAIL_HOST=smtp.gmail.com
+# EMAIL_PORT=587
+# EMAIL_USE_TLS=True
+# EMAIL_HOST_USER=john.doe@gmail.com
+# EMAIL_HOST_PASSWORD=mnfjytt56644888
+# DEFAULT_FROM_EMAIL = john.doe@gmail.com
+
+Go to your gmail and make app password replace
+ EMAIL_HOST_USER with your email address
+EMAIL_HOST_PASSWORD with your app password
+DEFAULT_FROM_EMAIL with your email adddress
+
