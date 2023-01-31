@@ -17,7 +17,7 @@ To run the project config your app by add environment variables
 # DEFAULT_FROM_EMAIL = john.doe@gmail.com
 
 Go to your gmail and make app password replace
- EMAIL_HOST_USER with your email address
+EMAIL_HOST_USER with your email address
 EMAIL_HOST_PASSWORD with your app password
 DEFAULT_FROM_EMAIL with your email adddress
 
